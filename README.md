@@ -8,7 +8,7 @@ Ashton Minden, Josh Bishop, Andrew Pasimio
 * FreeSimpleGUI
 * rclpy
 
-After installing pixi and setting up the environment (listed below) install with<br>
+After installing pixi and setting up the environment (listed below in UR3E arm setup) install packages with<br>
 `pixi add --pypi [package]` <br>
 
 # Additional Requirements
