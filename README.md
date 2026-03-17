@@ -13,12 +13,12 @@ After installing pixi and setting up the environment (listed below) install with
 
 # Additional Requirements
 2x WiFi enabled microcontrollers. 
-One requires an imu and a battery. Uses IMU_publisher.ino<br>
+One requires an imu and a battery. Uses IMUPublisher.ino<br>
 Example schematic:<br>
 <img width="354" height="336" alt="image" src="https://github.com/user-attachments/assets/6c6f19fd-8539-4e5c-989a-d9708dfb54ff" /><br>
 https://docs.slimevr.dev/diy/tracker-schematics.html<br>
 
-The other Microcontoller can be connected via USB to the controlling computer. Uses IMU_subscriber.ino<br>
+The other Microcontoller can be connected via USB to the controlling computer. Uses IMUSubscriber.ino<br>
 
 
 
